@@ -1,0 +1,27 @@
+{
+    "id": 92345678,
+    "name": "The Hive",
+    "author": "Isaac",
+    "creators": [
+        "Isaac"
+    ],
+    "verifier": "Isaac",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "PlayerOne",
+            "link": "https://youtu.be/VideoProof1",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MobilePro",
+            "link": "https://youtu.be/VideoProof2",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+}

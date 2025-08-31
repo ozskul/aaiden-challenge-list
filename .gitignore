@@ -1,0 +1,11 @@
+# OS/Junk files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Node (not used, but safe)
+node_modules/
+dist/
